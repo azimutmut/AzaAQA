@@ -8,7 +8,6 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -138,7 +138,6 @@
             <version>5.5.0</version>
             <scope>compile</scope>
         </dependency>
-
     </dependencies>
 
     <build>
@@ -175,5 +174,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
